@@ -12,7 +12,7 @@
     "clamp-js": "^0.7.0",
     "connected-react-router": "^5.0.1",
     "line-clamp": "0.0.9",
-    "lint-staged": "^8.0.4",
+    "lint-staged": "^13.1.0",
     "mock-amplify-auth": "^2.1.0",
     "pretty-quick": "^1.8.0",
     "react": "^16.6.0",
